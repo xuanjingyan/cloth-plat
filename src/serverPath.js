@@ -1,0 +1,1 @@
+export default {baseUrl: "http://t.advnewapi.dftcmedia.com:8888/eqApi/equipment"}
